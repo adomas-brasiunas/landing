@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto+Slab:wght@300;400;500;600;700;800;900&display=swap');
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/cards.css");
+
+body {
+    font-family: monospace;
+    font-size:18px;
+    margin:0px auto;
+    background-color: rgb(240,240,240);
+    color:black;
+    text-align: justify;
+}
+
+h2 {
+    font-family:'Lucida Console', monospace;
+    font-weight:lighter;
+    font-size:40px;
+    color:black;
+    margin-bottom: 10px 0px;
+}
+
+h3 {
+    font-family:'Lucida Console', monospace;
+    font-weight:lighter;
+    font-size:14px;
+    color:black;
+    margin:50px 20px;
+    text-align: center;
+}
+
+h4 {
+    font-family:'Lucida Console', monospace;
+    font-weight:lighter;
+    font-size:40px;
+    color:black;
+    margin:60px 0px;
+    text-align: center;
+}
+
+a {
+     text-decoration: none;
+}
